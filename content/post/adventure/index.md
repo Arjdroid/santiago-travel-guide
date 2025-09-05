@@ -1,31 +1,31 @@
 +++
 draft = "false"
 author = "Arjdroid"
-title = "Food"
-date = "2024-09-04"
-description = "Who doesn't like to eat?"
+title = "Adventure"
+date = "2024-09-05"
+description = "What makes you feel alive?"
 tags = [
-    "food",
+    "adventure", 
 ]
 categories = [
     "food",]
 series = ["santiago"]
-aliases = ["food"]
-image = "food.jpg"
+aliases = ["adventure"]
+image = "adventure.jpg"
 +++
 
 ## Introduction
 
-Santiago, as a large city, has a lot of great food options.
+While the city itself is great, sometimes you want to escape the hustle and bustle, not to mention pollution.
 
-## Coffee
+Climb up one of the mountains you see.
 
-I didn't come into Santiago with very high expectations regarding coffee, but my first few hours in the city proved me delightfully wrong. The city has an excellent coffee culture. There are all these cute cafes dispersed across the city, and you are never more than 3 minutes away from an espresso machine. Available are a very many different blends and great roasters however, I was a little disappointed to note that none of them had laid their eyes on decaf, and lighter roasts were hard to find.
+One of my favourite parts of Santiago is that you can see the mountains in all directions surrounding you!
 
-## Vegetarian
+I was a little rusty with hiking and adventure sports before coming here, but every weekend held something new for me.
 
-As a vegetarian, I once more didn't come with very high expectations as to what I could eat. Yet again, I was pleasantly surprised to be wrong. Every place has at least one substantial menu item, usually more that is vegetarian or perhaps even vegan. There is also a great selection and rich history of purely vegetarian / vegan restaurants, granted they are a tad bit more on the expensive side, and often located in nicer parts of the city that just so happen to be less accessible by the subway. One such really nice restaurant is El Huerto.
+From hiking 20+km up Cajon Del Maipo in meter-deep snow, to being carried by a river holding onto a boogie-board for dear life, or paragliding the coasts of Valparaiso, there is much to do within a couple hours of Chile.
 
-## Fast
+I would highly recommend seizing the opportunity to step out of your comfort zone, and partaking in any adventure that catches your fancy.
 
-There is a lot of food that you can very fast. Interestingly enough, 'traditional' American fast food chains like Burger King are rather slow to service orders due to constantly running beyond capacity. Instead, check out some local alternatives: Empanadas are a must try.
+I relished the time away from my screens, whether it be multiple monitors or a laptop or the relatively tiny smartphone. Still, I took a lot of pictures I really liked so perhaps my camera makes the cut.
