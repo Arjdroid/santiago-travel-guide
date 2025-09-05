@@ -1,8 +1,8 @@
-baseurl = "https://arjdroid.me"
+baseurl = "https://santiago.nxtdroid.win"
 languageCode = "en-us"
 theme = "hugo-theme-stack"
 paginate = 5
-title = "The Droid Blog"
+title = "Arjun in Santiago"
 #disqusShortname = "The Droid Blog"            # Change it to your Disqus shortname before using
 DefaultContentLanguage = "en"                   # Theme i18n support
 
@@ -47,7 +47,7 @@ DefaultContentLanguage = "en"                   # Theme i18n support
     [params.sidebar]
         emoji = "🖥️"
         avatar = "img/avatar.jpg"
-        subtitle = "Computer Wizard In Training"
+        subtitle = "An Intrepid Traveller"
 
     [params.article]
         math = false
@@ -93,12 +93,12 @@ DefaultContentLanguage = "en"                   # Theme i18n support
         url = "about"
         weight = -90
         pre = "user"
-    [[menu.main]]
-        identifier = "rss"
-        name = "RSS"
-        url = "p/rss"
-        weight = -70
-        pre = "rss"
+    #[[menu.main]]
+    #    identifier = "rss"
+    #    name = "RSS"
+    #    url = "p/rss"
+    #    weight = -70
+    #    pre = "rss"
 #    [[menu.main]]
 #        identifier = "podcast"
 #        name = "Podcast"
